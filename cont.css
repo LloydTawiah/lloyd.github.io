@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    justify-content: center;
+    text-align: center;
+}
+div{
+    border: solid 2px;
+    position: relative;
+    justify-content: center;
+    backdrop-filter: blur(20px);
+    border-radius: 20px;
+color:rgb(171, 197, 25) ;
+        text-align: center;
+    width: 400px;
+    
+}
+body{
+    justify-content: center;
+    background: url(Images/smile_hd-wallpaper-1920x1080.jpg);
+    min-height:100vh ;
+    display: flex;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeati;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: blanchedalmond;
+}
+a:hover{
+    text-decoration: underline;
+    transition: .4s;
+    font-size: 103%;
+}
+p{
+    color: blue;
+}
