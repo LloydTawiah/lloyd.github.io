@@ -358,14 +358,14 @@ button:hover svg {
   
   .option img{
     width:130px ;
-    height: 32vh;
-    border-radius: 30px;
+    height: 28vh;
+    border-radius: 20px;
     justify-content: center;
     margin: 4px;
-    transition:ease .4s;
+    transition:ease .32s;
 
   }
   .option img:hover{
-    margin: 10px;
     transform: scale(1.1);
+    margin: 9px;
   }

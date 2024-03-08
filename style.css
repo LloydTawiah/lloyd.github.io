@@ -1,8 +1,13 @@
 html{
     font-family: Arial, sans-serif;
-    background:linear-gradient(rgba(165, 42, 42, 0.534),rgb(223, 212, 212));
 
 }
 p{max-width: 100%;}
 a{color: rgb(4, 50, 255);
 text-decoration: none;}
+body{
+    margin: 0;
+    padding: 0;
+    background:linear-gradient(rgba(165, 42, 42, 0.534),rgb(156, 131, 131));
+
+}
